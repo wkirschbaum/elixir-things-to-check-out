@@ -10,8 +10,6 @@ My personal list of elixir projects I want to experiment with.
 ** Gemini https://github.com/wkirschbaum/gemini
    Server specification: https://gemini.circumlunar.space/docs/specification.html
 
-
-
 * Data Messaging
 ** Broadway https://github.com/dashbitco/broadway
    Concurrent and multi-stage data ingestion and data processing
@@ -25,7 +23,6 @@ My personal list of elixir projects I want to experiment with.
 
 * CSS and Styling
 ** TailwindCSS https://tailwindcss.com/
-
 
 * LSP
 ** LSP Spec
