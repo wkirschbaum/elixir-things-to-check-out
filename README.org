@@ -1,11 +1,11 @@
 My personal list of elixir projects I want to experiment with.
 
-* User interface
+* Web User Interface
 ** Surface https://github.com/msaraiva/surface
    Surface is a server-side rendering component library that allows
    developers to build rich interactive user-interfaces, writing
    minimal custom Javascript.
 
-* Data
+* Data Messaging
 ** Broadway https://github.com/dashbitco/broadway
    Concurrent and multi-stage data ingestion and data processing
