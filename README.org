@@ -6,6 +6,27 @@ My personal list of elixir projects I want to experiment with.
    developers to build rich interactive user-interfaces, writing
    minimal custom Javascript.
 
+* Web Servers
+** Gemini https://github.com/wkirschbaum/gemini
+   Server specification: https://gemini.circumlunar.space/docs/specification.html
+
+
+
 * Data Messaging
 ** Broadway https://github.com/dashbitco/broadway
    Concurrent and multi-stage data ingestion and data processing
+
+* Mettrics
+** Open telemetry https://opentelemetry.io/
+   An observability framework for cloud-native software.
+
+* Reading
+** Test-Driven Development with Phoenix https://www.tddphoenix.com/
+
+* CSS and Styling
+** TailwindCSS https://tailwindcss.com/
+
+
+* LSP
+** LSP Spec
+   https://microsoft.github.io/language-server-protocol/specifications/specification-current/#responseMessage
